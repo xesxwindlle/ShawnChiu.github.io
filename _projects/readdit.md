@@ -9,7 +9,7 @@ excerpt: "An online book forum and content management system that deploys AI mod
 duration: 02/2026 - 03/2026
 play_url: "http://3.145.152.208:9000"
 header:
-  teaser: "Readdit_index.jpg"
+  teaser: "Readdit_index.png"
 ---
  <ul>
       <li>Architected a RESTful API to manage users, books, submissions, and reviews with Java Spring Boot.</li>

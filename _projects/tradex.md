@@ -9,7 +9,7 @@ excerpt: "A full-stack web application enabling real-time stock trading, portfol
 duration: 11/2025 - 12/2025
 # play_url: "http://3.145.152.208:9000"
 header:
-  teaser: "TradeX_index.jpg"
+  teaser: "TradeX_trade.png"
 ---
  <ul>
       <li>Developed RESTful APIs for user watchlists, holdings, and orders using Java Spring Boot, and integrated
