@@ -23,6 +23,7 @@ redirect_from:
       <span class="chip">Python</span>
       <span class="chip">Java</span>
       <span class="chip">JavaScript</span>
+      <span class="chip">TypeScript</span>
       <span class="chip">SQL</span>
     </div>
   </div>
@@ -61,7 +62,7 @@ redirect_from:
         <div class="card-subtitle">Beyondsoft Consulting Inc.</div>
         <div class="card-stack"></div>
       </div>
-    <div class="card-dates">Apr 2025 - Aug 2025</div>
+    <div class="card-dates">May 2025 - Aug 2025</div>
     </div>
     <ul>
       <li>Developed project management BI dashboards for Microsoft, supporting 200+ stakeholders and 50+ partner companies across Microsoft Azure initiatives.</li>
@@ -77,11 +78,11 @@ redirect_from:
         <div class="card-subtitle">HOYA BIT Digital Technology Co.</div>
         <div class="card-stack"></div>
       </div>
-    <div class="card-dates">Feb 2025 - Apr 2025</div>
+    <div class="card-dates">March 2025 - May 2025</div>
     </div>
     <ul>
       <li>Analyzed customer and transaction datasets and built workflows to identify flagged and high-risk accounts, supporting KYC and Due Diligence (EDD) processes.</li>
-      <li>Delivered data-driven insights on risk exposure and capital allocation to support operational strategy decisions.</li>
+      <li>Monitored digital asset vaults and cryptocurrency wallets, and delivered data-driven insights on risk exposure and capital allocation to support operational strategy decisions.</li>
     </ul>
   </article>
 </section>
